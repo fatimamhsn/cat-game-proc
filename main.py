@@ -4,7 +4,7 @@ cat_attributes = {
     "weight": 15,
     # change the inital values above
     }
-
+#gdd
 intelligence = cat_attributes["intelligence"]
 energy = cat_attributes["energy"]
 weight = cat_attributes["weight"]
